@@ -40,7 +40,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'preservim/nerdtree'
 
 " Colorscheme
-"Plug 'gruvbox-community/gruvbox'
+Plug 'gruvbox-community/gruvbox'
 call plug#end()
 
 " Colors: {{{
@@ -62,7 +62,7 @@ if has('termguicolors')
 endif
 
 set background=dark
-"colorscheme gruvbox
+colorscheme gruvbox
 " }}}
 
 
